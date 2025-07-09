@@ -1,4 +1,4 @@
-# Backend Developer in Japan👋
+# iOS Apps Developer in Japan👋
 ### Just 20 years old 
 ### Feel free to contact me anytime!👍
 #
@@ -15,14 +15,13 @@
 
 <p align="left">
 <a href="https://twitter.com/[MathMeganeKun]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="[TanakaMikihisa]" height="30" width="40" /></a>
-<a href="[TanakaMikihisa_email]"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=[TanakaMikihisa_email]"/></a>
 </p>
 
 
 
 # My Skill (Programming Languages, Frameworks and Tools)
 
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,firebase,react,vue,next,sqlite,mysql,github,vscode,docker,laravel,cakephp,discord,php,gutlab,jquery,aws,vite" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,js,swift,discord,python,vite" /> <br /><br />
 
   ※Another skill and tools
   Codeigniter, Virtual Box, CakePHP, CircleCI and so on.
