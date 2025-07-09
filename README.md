@@ -17,7 +17,7 @@
   
 # NOW TRAINING
 
-<img src="https://skillicons.dev/icons?i=discord,python,vscode,github" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=discord,python,vscode,github,firebase" /> <br /><br />
 
 
 <!-- --------------------------------- :) ---------------------------------- -->
