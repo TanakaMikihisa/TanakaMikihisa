@@ -3,7 +3,7 @@
 ### Feel free to contact me anytime!👍
 #
 
-# NOW TRAINING
+# X
 
 <p align="left">
 <a href="https://twitter.com/Mathmeganekun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Mathmeganekun" height="30" width="40" /></a></a>
@@ -13,14 +13,11 @@
 
 # My Skill (Programming Languages, Frameworks and Tools)
 
-<img src="https://skillicons.dev/icons?i=swift,discord,python" /> <br /><br />
-
-  ※Another skill and tools
-  Codeigniter, Virtual Box, CakePHP, CircleCI and so on.
+<img src="https://skillicons.dev/icons?i=swift" /> <br /><br />
   
 # NOW TRAINING
 
-<img src="https://skillicons.dev/icons?i=react,next,typescript,mysql,laravel,docker,vscode,github" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=discord,python,vscode,github" /> <br /><br />
 
 
 <!-- --------------------------------- :) ---------------------------------- -->
