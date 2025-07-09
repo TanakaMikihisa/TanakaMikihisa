@@ -8,7 +8,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=TanakaMikihisa_name&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![My Twitter Followers](https://badgen.net/twitter/follow/MathMeganeKun)](https://twitter.com/MathMeganeKun)
+[![My Twitter Followers](https://badgen.net/twitter/follow/MathmeganeKun)](https://twitter.com/MathmeganeKun)
 
 
 # NOW TRAINING
