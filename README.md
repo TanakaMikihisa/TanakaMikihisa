@@ -2,26 +2,18 @@
 ### Just 20 years old 
 ### Feel free to contact me anytime!👍
 #
-![Foo_name's GitHub stats](https://github-readme-stats.vercel.app/api?username=TanakaMikihisa_name&show_icons=true&theme=vue-dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanakaMikihisa_name&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=TanakaMikihisa_name&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![My Twitter Followers](https://badgen.net/twitter/follow/Mathmeganekun)](https://twitter.com/Mathmeganekun)
-
 
 # NOW TRAINING
 
 <p align="left">
-<a href="https://twitter.com/[MathMeganeKun]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="[TanakaMikihisa]" height="30" width="40" /></a>
+<a href="https://twitter.com/[Mathmeganekun]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="[TanakaMikihisa]" height="30" width="40" /></a>
 </p>
 
 
 
 # My Skill (Programming Languages, Frameworks and Tools)
 
-<img src="https://skillicons.dev/icons?i=html,css,js,swift,discord,python,vite" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=swift,discord,python" /> <br /><br />
 
   ※Another skill and tools
   Codeigniter, Virtual Box, CakePHP, CircleCI and so on.
