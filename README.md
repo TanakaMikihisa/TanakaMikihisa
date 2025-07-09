@@ -6,7 +6,7 @@
 # NOW TRAINING
 
 <p align="left">
-<a href="[https://x.com/mathmeganekun?s=21](https://x.com/mathmeganekun?s=21)" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg)" alt="mathmeganekun" height="30" width="40" /></a>
+<a href="https://twitter.com/Mathmeganekun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Mathmeganekun" height="30" width="40" /></a></a>
 </p>
 
 
