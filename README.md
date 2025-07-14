@@ -8,6 +8,14 @@
 <table>
   <tbody>
     <tr>
+      <td>名前(Name)</td>
+      <td>田中幹久(Tanaka Mikihisa)</td>
+    </tr>
+    <tr>
+      <td>所属(At)</td>
+      <td>大阪大学(Osaka University)</td>
+    </tr>
+    <tr>
       <td>X</td>
       <td><a href="https://x.com/mathmeganekun?s=11">@Mathmeganekun</a></td>
     </tr>
@@ -16,8 +24,12 @@
       <td><a href="https://note.com/mathmeganekun">@Mathmeganekun</a></td>
     </tr>
     <tr>
-      <td>データ3</td>
-      <td>データC</td>
+      <td>Qiita</td>
+      <td><a href="https://qiita.com/TanakaMikihisa">@TanakaMikihisa</a></td>
+    </tr>
+    <tr>
+      <td>App Store</td>
+      <td><a href="https://apps.apple.com/jp/developer/tanaka-mikihisa/id1778448960">@tanaka-mikihisa</a></td>
     </tr>
   </tbody>
 </table>
