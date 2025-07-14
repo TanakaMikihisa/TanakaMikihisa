@@ -3,13 +3,9 @@
 ### Feel free to contact me anytime!👍
 #
 
+# 自己紹介
+
 <table>
-  <thead>
-    <tr>
-      <th>ヘッダー1</th>
-      <th>ヘッダー2</th>
-    </tr>
-  </thead>
   <tbody>
     <tr>
       <td><a href="https://www.google.com/">リンク付きデータ</a></td>
