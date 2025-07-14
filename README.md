@@ -12,8 +12,8 @@
   </thead>
   <tbody>
     <tr>
-      <td>データ1</td>
-      <td>データA</td>
+      <td><a href="https://www.google.com/">リンク付きデータ</a></td>
+      <td><a href="https://twitter.com/">別のリンク</a></td>
     </tr>
     <tr>
       <td>データ2</td>
