@@ -3,6 +3,31 @@
 ### Feel free to contact me anytime!👍
 #
 
+<table>
+  <thead>
+    <tr>
+      <th>ヘッダー1</th>
+      <th>ヘッダー2</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>データ1</td>
+      <td>データA</td>
+    </tr>
+    <tr>
+      <td>データ2</td>
+      <td>データB</td>
+    </tr>
+    <tr>
+      <td>データ3</td>
+      <td>データC</td>
+    </tr>
+  </tbody>
+</table>
+
+
+
 # X
 
 <p align="left">
