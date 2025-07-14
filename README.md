@@ -8,12 +8,12 @@
 <table>
   <tbody>
     <tr>
-      <td><a href="https://www.google.com/">リンク付きデータ</a></td>
-      <td><a href="https://twitter.com/">別のリンク</a></td>
+      <td>X</td>
+      <td><a href="https://x.com/mathmeganekun?s=11">@Mathmeganekun</a></td>
     </tr>
     <tr>
-      <td>データ2</td>
-      <td>データB</td>
+      <td>note</td>
+      <td><a href="https://note.com/mathmeganekun">@Mathmeganekun</a></td>
     </tr>
     <tr>
       <td>データ3</td>
