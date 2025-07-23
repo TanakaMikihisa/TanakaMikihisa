@@ -50,7 +50,7 @@
   
 # NOW TRAINING
 
-<img src="https://skillicons.dev/icons?i=discord,python,vscode,github,firebase, mysql" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=discord,python,vscode,github,firebase,mysql" /> <br /><br />
 
 
 <!-- --------------------------------- :) ---------------------------------- -->
