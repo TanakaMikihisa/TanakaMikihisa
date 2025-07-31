@@ -20,10 +20,6 @@
       <td><a href="https://x.com/mathmeganekun?s=11">@Mathmeganekun</a></td>
     </tr>
     <tr>
-      <td>note</td>
-      <td><a href="https://note.com/mathmeganekun">@Mathmeganekun</a></td>
-    </tr>
-    <tr>
       <td>Qiita</td>
       <td><a href="https://qiita.com/TanakaMikihisa">@TanakaMikihisa</a></td>
     </tr>
