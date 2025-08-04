@@ -47,7 +47,7 @@
   
 # NOW TRAINING
 
-<img src="https://skillicons.dev/icons?i=vscode,github,firebase,mysql" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=vscode,github,firebase,mysql,figma,apple" /> <br /><br />
 
 
 <!-- --------------------------------- :) ---------------------------------- -->
