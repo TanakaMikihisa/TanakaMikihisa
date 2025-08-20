@@ -42,7 +42,7 @@
 
 # My Skill (Programming Languages, Frameworks and Tools)
 
-<img src="https://skillicons.dev/icons?i=swift,discord,python" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=swift,discord,python,latex" /> <br /><br />
   
 # NOW TRAINING
 
