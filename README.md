@@ -1,9 +1,11 @@
-# iOS Apps Developer in Japan🇯🇵
-### Just 20 years old 
-### Feel free to contact me anytime!👍
-#
+# iOSアプリを作ったりしています🇯🇵
+### 気軽にお声がけください👍
 
-# 自己紹介
+#　最近の興味👀
+
+- Discord Bot開発 (サークル用)
+
+# 自己紹介📝
 
 <table>
   <tbody>
@@ -40,11 +42,11 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanakamikihisa&layout=compact)
 
-# My Skill (Programming Languages, Frameworks and Tools)
+# スキル
 
 <img src="https://skillicons.dev/icons?i=swift,discord,python,latex" /> <br /><br />
   
-# NOW TRAINING
+# 勉強中
 
 <img src="https://skillicons.dev/icons?i=vscode,github,firebase,mysql,figma,apple" /> <br /><br />
 
