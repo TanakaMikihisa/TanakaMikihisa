@@ -3,6 +3,7 @@
 
 # 最近の興味👀
 
+[Discord Bot開発](https://github.com/OU-sakumon/Discord-Bot.git)(サークル用)
 
 # 自己紹介📝
 
