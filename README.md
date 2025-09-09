@@ -33,6 +33,10 @@
 </table>
 
 
+<img src="https://streak-stats.demolab.com?user=tanakamikihisa&theme=tokyonight&hide_border=false&date_format=%5BY%20%5DM%20j" />
+
+
+
 
 # X
 
