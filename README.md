@@ -1,11 +1,11 @@
 # iOSアプリを作ったりしています🇯🇵
 ### 気軽にお声がけください👍
 
-# 最近の興味👀
+# Recent interests👀
 
 [Discord Bot開発](https://github.com/OU-sakumon/Discord-Bot.git)(サークル用)
 
-# 自己紹介📝
+# Introduction📝
 
 <table>
   <tbody>
@@ -15,7 +15,7 @@
     </tr>
     <tr>
       <td>所属(At)</td>
-      <td>大阪大学(Osaka University)</td>
+      <td>大阪大学(The University of Osaka)</td>
     </tr>
     <tr>
       <td>X</td>
@@ -35,20 +35,17 @@
 
 
 
-
-# X
-
 <p align="left">
 <a href="https://twitter.com/Mathmeganekun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Mathmeganekun" height="30" width="40" /></a></a>
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanakamikihisa&layout=compact)
 
-# スキル
+# My skills
 
 <img src="https://skillicons.dev/icons?i=swift,discord,python,latex" /> <br /><br />
   
-# 勉強中
+# Studying
 
 <img src="https://skillicons.dev/icons?i=vscode,github,firebase,mysql,figma,apple" /> <br /><br />
 
