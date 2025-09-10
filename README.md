@@ -1,5 +1,4 @@
-# iOSアプリを作ったりしています🇯🇵
-### 気軽にお声がけください👍
+# iOS Apps Engineer at Osaka🇯🇵
 
 # Recent interests👀
 
