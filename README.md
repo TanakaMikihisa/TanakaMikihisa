@@ -46,7 +46,7 @@
   
 # Studying
 
-<img src="https://skillicons.dev/icons?i=vscode,github,firebase,mysql,figma,apple" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=vscode,github,firebase,mysql,figma,apple,docker,html,css,javascript" /> <br /><br />
 
 
 <!-- --------------------------------- :) ---------------------------------- -->
