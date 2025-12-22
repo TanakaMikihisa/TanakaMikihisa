@@ -2,7 +2,7 @@
 
 # Recent interests👀
 
-[Discord Bot開発](https://github.com/OU-sakumon/Discord-Bot.git)(サークル用)
+[Discord Bot開発](https://github.com/OU-sakumon/Manuals.git)
 
 # Introduction📝
 
