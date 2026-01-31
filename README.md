@@ -30,7 +30,7 @@
     </tr>
     <tr>
       <td>Home Page</td>
-      <td><a href="https://tanakamikihisa.com">@tanaka-mikihisa</a></td>
+      <td><a href="https://tanakamikihisa.com">tanakamikihisa.com</a></td>
     </tr>
   </tbody>
 </table>
