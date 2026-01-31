@@ -28,6 +28,10 @@
       <td>App Store</td>
       <td><a href="https://apps.apple.com/jp/developer/tanaka-mikihisa/id1778448960">@tanaka-mikihisa</a></td>
     </tr>
+    <tr>
+      <td>Home Page</td>
+      <td><a href="https://tanakamikihisa.com">@tanaka-mikihisa</a></td>
+    </tr>
   </tbody>
 </table>
 
