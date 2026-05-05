@@ -1,9 +1,5 @@
 # iOS Apps Engineer at Osaka🇯🇵
 
-# Recent interests👀
-
-[Discord Bot開発](https://github.com/OU-sakumon/Manuals.git)
-
 # Introduction📝
 
 <table>
@@ -46,11 +42,11 @@
 
 # My skills
 
-<img src="https://skillicons.dev/icons?i=swift,discord,bots,figma,py,latex" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=swift,discord,bots,figma,py,latex,github,firebase" /> <br /><br />
   
 # Studying
 
-<img src="https://skillicons.dev/icons?i=vscode,github,firebase,apple,docker,html,css,javascript" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=docker,html,css,javascript" /> <br /><br />
 
 
 <!-- --------------------------------- :) ---------------------------------- -->
